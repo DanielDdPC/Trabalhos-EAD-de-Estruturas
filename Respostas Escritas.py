@@ -28,7 +28,7 @@ print ("Em árvore binária, máxima de 28 e mínima de 5")
 print ("7 --- 15 ---- 4095")
 
 # 6) Qual é o menor número de níveis que uma árvore binária com 42 nós pode apresentar?
-print ("5 Níveis")
+print ("6 Níveis")
 
 
 # In[ ]:
